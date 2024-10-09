@@ -8,19 +8,28 @@ Bu proje, Northwind veri seti üzerinde SQL kullanarak yapılan veri analizi ile
 -Python: İleri düzey veri analizi ve grafikler oluşturmak için kullanıldı (Matplotlib, Seaborn gibi kütüphaneler).
 ## Analiz Özeti
 1)Satış Analizi:
+
 -Ürün bazlı satış trendleri
+
 -Müşteri sipariş miktarları ve sıklığı
+
 -Bölgesel satış dağılımları
 
 2)Müşteri Analizi:
+
 -Müşteri sipariş davranışlarının incelenmesi
+
 -En çok sipariş veren müşteriler ve sipariş frekansı
 
+
 3)Ürün Performansı:
+
 -En çok satılan ürünler
+
 -Stok durumu ve ürün kategorilerine göre performans
 
 4)Tedarikçi Analizi:
+
 -Tedarikçilerin sipariş teslimat süreleri ve ürün çeşitliliği
 
 ## Görselleştirmeler

@@ -7,20 +7,20 @@ Bu proje, Northwind veri seti üzerinde SQL kullanarak yapılan veri analizi ile
 -Power BI: Verilerin görselleştirilmesi ve etkileşimli kontrol panelleri oluşturmak için kullanıldı.
 -Python: İleri düzey veri analizi ve grafikler oluşturmak için kullanıldı (Matplotlib, Seaborn gibi kütüphaneler).
 ## Analiz Özeti
--Satış Analizi:
-Ürün bazlı satış trendleri
-Müşteri sipariş miktarları ve sıklığı
-Bölgesel satış dağılımları
-Müşteri Analizi:
+1)Satış Analizi:
+-Ürün bazlı satış trendleri
+-Müşteri sipariş miktarları ve sıklığı
+-Bölgesel satış dağılımları
 
+2)Müşteri Analizi:
 -Müşteri sipariş davranışlarının incelenmesi
-En çok sipariş veren müşteriler ve sipariş frekansı
-Ürün Performansı:
+-En çok sipariş veren müşteriler ve sipariş frekansı
 
+3)Ürün Performansı:
 -En çok satılan ürünler
-Stok durumu ve ürün kategorilerine göre performans
-Tedarikçi Analizi:
+-Stok durumu ve ürün kategorilerine göre performans
 
+4)Tedarikçi Analizi:
 -Tedarikçilerin sipariş teslimat süreleri ve ürün çeşitliliği
 
 ## Görselleştirmeler
